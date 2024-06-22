@@ -1,10 +1,14 @@
-# Documentation for BinanceAPI.NET
+# Documentation for [`BinanceAPI.NET`](https://www.nuget.org/packages/BinanceAPI.NET)
 
 This is the unbuilt documentation for the [`BinanceAPI.NET Documentation Website`](https://binanceapi-net.github.io/)
 
-If you want to improve the [`Documentation Website`](https://binanceapi-net.github.io/) or submit fixes please open a pull request
+If you want to improve the website or submit fixes please open a pull request
 
-# Docusaurus
+![website](https://github.com/binanceapi-net/Docusaurus-BinanceAPI.NET/assets/173445748/f661f6e7-22a5-40f5-b3fc-0ba2528083e2)
+
+------
+
+<h1><a href="https://docusaurus.io/"><img src="https://docusaurus.io/img/docusaurus_keytar.svg" width="50" height="50"/></href> Created with Docusaurus</h1>
 
 This is an example of a [`Docs Only Website`](https://docusaurus.io/) and you can use it as a template if you want
 
