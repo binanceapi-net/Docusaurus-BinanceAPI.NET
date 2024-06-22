@@ -7,3 +7,5 @@ If you want to improve the [`Documentation Website`](https://binanceapi-net.gith
 # Docusaurus
 
 This is an example of a [`Docs Only Website`](https://docusaurus.io/) and you can use it as a template if you want
+
+You can build this yourself by following the [`Fast Track`](https://docusaurus.io/docs#fast-track) and then replacing the files after you create `my-website`
