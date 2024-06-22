@@ -10,6 +10,6 @@ If you want to improve the website or submit fixes please open a pull request
 
 <h1><a href="https://docusaurus.io/"><img src="https://docusaurus.io/img/docusaurus_keytar.svg" width="50" height="50"/></href> Created with Docusaurus</h1>
 
-This is an example of a [`Docs Only Website`](https://docusaurus.io/) and you can use it as a template if you want
+This is an example of [`Docs Only Mode`](https://docusaurus.io/docs/docs-introduction#docs-only-mode) and you can use it as a template if you want
 
 You can build this yourself by following the [`Fast Track`](https://docusaurus.io/docs#fast-track) and then replacing the files after you create `my-website`
