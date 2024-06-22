@@ -14,9 +14,7 @@ This is an example of [`Docs Only Mode`](https://docusaurus.io/docs/docs-introdu
 
 You can build this yourself by following the [`Fast Track`](https://docusaurus.io/docs#fast-track) and then replacing the files after you create `my-website`
 
--------
-
-# Custom 404 Page
+### Custom 404 Page
 
 This template/website includes a custom `404 Not Found Page`
 
