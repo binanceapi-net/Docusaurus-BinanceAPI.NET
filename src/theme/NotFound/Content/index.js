@@ -2,7 +2,8 @@ import React from 'react';
 import clsx from 'clsx';
 import Translate from '@docusaurus/Translate';
 import Heading from '@theme/Heading';
-import DocusaurusImageUrl from '/img/icon.png';
+import useBaseUrl from '@docusaurus/useBaseUrl';
+
 export default function NotFoundContent({className}) {
   return (
     <main className={clsx('container margin-vert--xl', className)}>
@@ -22,7 +23,7 @@ export default function NotFoundContent({className}) {
               We could not find what you were looking for.
             </Translate>
           </p>
-          <img src={DocusaurusImageUrl} width="100" height="100" style={{display:"block",marginLeft:"auto",marginRight:"auto"}}/>
+          <img src={useBaseUrl('/img/icon.png')} width="100" height="100" style={{display:"block",marginLeft:"auto",marginRight:"auto"}}/>
           <p>
             <Translate
               id="theme.NotFound.p2"
